@@ -134,7 +134,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenOrderModal, onShowToast }) => 
               <div className="relative bg-brand-charcoal-light rounded-3xl p-3 border-2 border-brand-orange/40 shadow-2xl overflow-hidden group">
                 <div className="relative rounded-2xl overflow-hidden aspect-[4/5] sm:aspect-[4/4.5] bg-gray-900">
                   <img
-                    src="/images/doner-classic.jpg"
+                    src="./images/doner-classic.jpg"
                     alt="Сочный авторский донер и шаурма ПивДонер в разрезе"
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500 ease-out"
                     loading="eager"

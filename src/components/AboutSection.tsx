@@ -12,7 +12,7 @@ export const AboutSection: React.FC = () => {
           <div className="lg:col-span-6 relative min-w-0">
             <div className="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-white ring-1 ring-gray-200 group">
               <img
-                src="/images/facade.jpg"
+                src="./images/facade.jpg"
                 alt="Кафе ПивДонер на улице Одинцова, 20 в Минске — фасад павильона"
                 className="w-full h-auto object-cover group-hover:scale-102 transition-transform duration-500"
                 loading="lazy"
